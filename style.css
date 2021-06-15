@@ -55,9 +55,42 @@
 
 #description {
     font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+input[type=email] {
+    width: 60%;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    border: 10px solid #241a3d;
+    border-radius: 15px;
+}
+
+input[type=submit] {
+    width: 20%;
+    height: 6%;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    border: 10px solid #241a3d;
+    border-radius: 15px;
+}
+
+#jr {
+
+}
+
+#zap {
+
+}
+
+#h3d {
+
 }
